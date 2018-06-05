@@ -3,7 +3,7 @@ This repository contains LaTeX sources of my graduation thesis. The implementati
 
 In order to setup a **perfect** local environment via Spacemacs:
 
-1) Install TeX Live along with cyrillic languages package and make sure that XeTeX is included (e.g. on Ubuntu it's `texlive-xetex` and `texlive-lang-cyrillic` packages).
+1) Install TeX Live along with cyrillic languages package and make sure that XeTeX is included (e.g. on Arch it's `texlive-core`, `texlive-bin`, `texlive-lang` and `texlive-fontsextra` packages, on Ubuntu it's `texlive-xetex` and `texlive-lang-cyrillic`).
 2) Add `latex` and `bibtex` layers to `.spacemacs`:
 
 ```elisp
