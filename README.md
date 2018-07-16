@@ -1,5 +1,5 @@
-# Graduation Thesis
-This repository contains LaTeX sources of my graduation thesis. The implementation can be found [here](https://github.com/baygeldin/StressDetectionKit).
+# Bachelor Graduation Thesis
+This repository contains LaTeX sources of my bachelor graduation thesis. The implementation can be found [here](https://github.com/baygeldin/StressDetectionKit).
 
 In order to setup a **perfect** local environment via Spacemacs:
 
